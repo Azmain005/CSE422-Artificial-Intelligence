@@ -1,5 +1,4 @@
 # CSE422-LAB  
-**CSE422 Assignments (BRACU)**  
 
 ### CSE422 - Artificial Intelligence Assignments  
 
